@@ -27,4 +27,4 @@ Here's a walkthrough of implemented user stories:
 ![Alt Text](https://i.imgur.com/kLVCRwW.gif)
 
  
- ![Imgur](https://imgur.com/a/I9Cw4FE.gif)
+ ![Imgur](https://imgur.com/O5dp1YT.gif)
