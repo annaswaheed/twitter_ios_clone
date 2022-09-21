@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://i.imgur.com/kLVCRwW.gif'](https://imgur.com/kLVCRwW) title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/kLVCRwW.gif'title='Video Walkthrough' width='' alt='Video Walkthrough' />
  ![Imgur](https://imgur.com/O5dp1YT.gif)
